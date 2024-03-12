@@ -1,0 +1,7 @@
+Gál Viktória
+git init
+git add . (vagy git add valami.txt)
+git commit -m "valami szöveg, aminek köze van a commitra váró fileoknak/változásoknak"
+git push
+git branch
+

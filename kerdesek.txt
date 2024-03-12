@@ -1,6 +1,15 @@
 Válaszolj az alábbi kérdésekre:
 Írd bele a saját neved!
+Gál Viktória
+
 Mi a Git és a GITHUB közötti különbség?
+A GITHUB az a weben elérhető felülete a GIT verziókövető rendszernek.
+
 Mit jelent a repository?
+
+
 Milyen feladatra jó a GITHUB?
+Másokkal meg tudjuk osztani a GIT-es repositorinkat.
+
 Mi a stage?
+Megmutatja, hogy melyik szinten vagyunk a repositoryn belül.
